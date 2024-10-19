@@ -1,0 +1,68 @@
+﻿@page "/products"
+@inject ProductService ProductService
+@inject NavigationManager NavigationManager
+
+<h3>Product List</h3>
+
+<a href="/product/add">Add Product</a>
+<button type="button" @onclick="AddProduct">Add Product button</button>
+
+
+@if (products == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th>Stock</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in products)
+            {
+                <tr>
+                    <td>@product.Id</td>
+                    <td>@product.Name</td>
+                    <td>@product.Price</td>
+                    <td>@product.Stock</td>
+                    <td>
+                        <button type="button" @onclick="() => EditProduct(product.Id)">Edit</button>
+                        <button type="button" @onclick="() => DeleteProduct(product.Id)">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private IEnumerable<Product>? products;
+
+    protected override async Task OnInitializedAsync()
+    {
+        products = await ProductService.GetAllProducts();
+    }
+
+    private void AddProduct()
+    {
+        NavigationManager.NavigateTo("/product/add");
+    }
+
+    private void EditProduct(int id)
+    {
+        NavigationManager.NavigateTo($"/product/edit/{id}");
+    }
+
+    private async Task DeleteProduct(int id)
+    {
+        await ProductService.DeleteProduct(id);
+        products = await ProductService.GetAllProducts(); // Recarrega a lista após exclusão
+    }
+}

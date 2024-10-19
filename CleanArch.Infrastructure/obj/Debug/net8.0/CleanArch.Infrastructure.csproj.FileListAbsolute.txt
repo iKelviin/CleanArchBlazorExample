@@ -1,0 +1,15 @@
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Infrastructure.deps.json
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Infrastructure.dll
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Infrastructure.pdb
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Domain.dll
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Infrastructure\bin\Debug\net8.0\CleanArch.Domain.pdb
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.AssemblyInfo.cs
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArc.9B8778E9.Up2Date
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.dll
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Infrastructure\obj\Debug\net8.0\refint\CleanArch.Infrastructure.dll
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Infrastructure\obj\Debug\net8.0\CleanArch.Infrastructure.pdb
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Infrastructure\obj\Debug\net8.0\ref\CleanArch.Infrastructure.dll

@@ -1,0 +1,15 @@
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.deps.json
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.dll
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Application\bin\Debug\net8.0\CleanArch.Application.pdb
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Application\bin\Debug\net8.0\CleanArch.Domain.dll
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Application\bin\Debug\net8.0\CleanArch.Domain.pdb
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.AssemblyReference.cache
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.AssemblyInfoInputs.cache
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.AssemblyInfo.cs
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Application\obj\Debug\net8.0\CleanArc.054EF71E.Up2Date
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.dll
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Application\obj\Debug\net8.0\refint\CleanArch.Application.dll
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Application\obj\Debug\net8.0\CleanArch.Application.pdb
+C:\Users\Kelvin\Documents\GitHub\CleanArchitectureBlazorExample\CleanArch.Application\obj\Debug\net8.0\ref\CleanArch.Application.dll

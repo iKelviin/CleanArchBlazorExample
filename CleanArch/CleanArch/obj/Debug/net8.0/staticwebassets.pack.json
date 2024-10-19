@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Kelvin\\Documents\\GitHub\\CleanArchitectureBlazorExample\\CleanArch\\CleanArch\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CleanArch.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CleanArch.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Kelvin\\Documents\\GitHub\\CleanArchitectureBlazorExample\\CleanArch\\CleanArch\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Kelvin\\Documents\\GitHub\\CleanArchitectureBlazorExample\\CleanArch\\CleanArch\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Kelvin\\Documents\\GitHub\\CleanArchitectureBlazorExample\\CleanArch\\CleanArch\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Kelvin\\Documents\\GitHub\\CleanArchitectureBlazorExample\\CleanArch\\CleanArch\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CleanArch.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CleanArch.props",
+      "PackagePath": "build\\CleanArch.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CleanArch.props",
+      "PackagePath": "buildMultiTargeting\\CleanArch.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CleanArch.props",
+      "PackagePath": "buildTransitive\\CleanArch.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

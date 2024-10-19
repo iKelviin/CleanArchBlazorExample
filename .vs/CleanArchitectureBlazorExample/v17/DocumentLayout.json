@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kelvin\\Documents\\GitHub\\CleanArchitectureBlazorExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50DC41E0-3C91-419D-BD81-58AA375B17EF}|CleanArch\\CleanArch.Client\\CleanArch.Client.csproj|c:\\users\\kelvin\\documents\\github\\cleanarchitectureblazorexample\\cleanarch\\cleanarch.client\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50DC41E0-3C91-419D-BD81-58AA375B17EF}|CleanArch\\CleanArch.Client\\CleanArch.Client.csproj|solutionrelative:cleanarch\\cleanarch.client\\pages\\products.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DC41E0-3C91-419D-BD81-58AA375B17EF}|CleanArch\\CleanArch.Client\\CleanArch.Client.csproj|c:\\users\\kelvin\\documents\\github\\cleanarchitectureblazorexample\\cleanarch\\cleanarch.client\\pages\\productform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50DC41E0-3C91-419D-BD81-58AA375B17EF}|CleanArch\\CleanArch.Client\\CleanArch.Client.csproj|solutionrelative:cleanarch\\cleanarch.client\\pages\\productform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACB4203-D5F2-4E9B-9885-9F5D5CBB0A4D}|CleanArch.Domain\\CleanArch.Domain.csproj|c:\\users\\kelvin\\documents\\github\\cleanarchitectureblazorexample\\cleanarch.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACB4203-D5F2-4E9B-9885-9F5D5CBB0A4D}|CleanArch.Domain\\CleanArch.Domain.csproj|solutionrelative:cleanarch.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Kelvin\\Documents\\GitHub\\CleanArchitectureBlazorExample\\CleanArch.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "CleanArch.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Kelvin\\Documents\\GitHub\\CleanArchitectureBlazorExample\\CleanArch.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "CleanArch.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:01:05.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductForm.razor",
+              "DocumentMoniker": "C:\\Users\\Kelvin\\Documents\\GitHub\\CleanArchitectureBlazorExample\\CleanArch\\CleanArch.Client\\Pages\\ProductForm.razor",
+              "RelativeDocumentMoniker": "CleanArch\\CleanArch.Client\\Pages\\ProductForm.razor",
+              "ToolTip": "C:\\Users\\Kelvin\\Documents\\GitHub\\CleanArchitectureBlazorExample\\CleanArch\\CleanArch.Client\\Pages\\ProductForm.razor",
+              "RelativeToolTip": "CleanArch\\CleanArch.Client\\Pages\\ProductForm.razor",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T13:00:37.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.razor",
+              "DocumentMoniker": "C:\\Users\\Kelvin\\Documents\\GitHub\\CleanArchitectureBlazorExample\\CleanArch\\CleanArch.Client\\Pages\\Products.razor",
+              "RelativeDocumentMoniker": "CleanArch\\CleanArch.Client\\Pages\\Products.razor",
+              "ToolTip": "C:\\Users\\Kelvin\\Documents\\GitHub\\CleanArchitectureBlazorExample\\CleanArch\\CleanArch.Client\\Pages\\Products.razor",
+              "RelativeToolTip": "CleanArch\\CleanArch.Client\\Pages\\Products.razor",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T12:59:45.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

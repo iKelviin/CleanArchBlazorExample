@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Kelvin\\Documents\\GitHub\\CleanArchitectureBlazorExample\\CleanArch\\CleanArch.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Kelvin\\Documents\\GitHub\\CleanArchitectureBlazorExample\\CleanArch\\CleanArch.Client\\obj\\Debug\\net8.0\\compressed\\4fi1y3t2qy.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Kelvin\\Documents\\GitHub\\CleanArchitectureBlazorExample\\CleanArch\\CleanArch.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\Kelvin\\Documents\\GitHub\\CleanArchitectureBlazorExample\\CleanArch\\CleanArch.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CleanArch.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CleanArch.Client.props",
+      "PackagePath": "build\\CleanArch.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CleanArch.Client.props",
+      "PackagePath": "buildMultiTargeting\\CleanArch.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CleanArch.Client.props",
+      "PackagePath": "buildTransitive\\CleanArch.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

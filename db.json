@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "X-Bacon",
+            "price": 10,
+            "stock": 2
+        },
+        {
+            "id": 2,
+            "name": "X-Salada",
+            "price": 8.5,
+            "stock": 2
+        },
+        {
+            "id": 3,
+            "name": "X-Burguer",
+            "price": 12.5,
+            "stock": 2
+        },
+        {
+            "id": 4,
+            "name": "X-Tudo",
+            "price": 15,
+            "stock": 2
+        }
+    ]
+}
