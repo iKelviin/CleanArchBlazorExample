@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArch", "CleanArch\Clea
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArch.Client", "CleanArch\CleanArch.Client\CleanArch.Client.csproj", "{50DC41E0-3C91-419D-BD81-58AA375B17EF}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Presentation", "0 - Presentation", "{D8B6FB8B-ADED-41CB-B1A3-110306BDA732}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{D8B6FB8B-ADED-41CB-B1A3-110306BDA732}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArch.Domain", "CleanArch.Domain\CleanArch.Domain.csproj", "{8ACB4203-D5F2-4E9B-9885-9F5D5CBB0A4D}"
 EndProject

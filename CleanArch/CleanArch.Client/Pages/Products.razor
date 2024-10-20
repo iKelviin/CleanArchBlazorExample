@@ -1,46 +1,66 @@
 ﻿@page "/products"
+@rendermode InteractiveWebAssembly
 @inject ProductService ProductService
 @inject NavigationManager NavigationManager
 
-<h3>Product List</h3>
 
-<a href="/product/add">Add Product</a>
-<button type="button" @onclick="AddProduct">Add Product button</button>
+<div class="card">
+    <div class="card-header align-items-center d-flex">
+        <h4 class="card-title mb-0 flex-grow-1">Lista de Produtos</h4>
+        <div class="flex-shrink-0">
+            <button type="button" class="btn btn-info waves-effect material-shadow-none" @onclick="AddProduct">Adicionar</button>
+        </div>
+    </div>
 
+    <div class="card-body">
+        <div class="table-responsive table-card">
+            <table class="table table-borderless table-centered align-middle table-nowrap mb-0">
+                <thead class="text-muted table-light">
+                    <tr>
+                        <th scope="col">Id</th>
+                        <th scope="col">Nome</th>
+                        <th scope="col">Preço</th>
+                        <th scope="col">Estoque</th>
+                        <th scope="col">Ação</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (products == null)
+                    {
+                        <tr>
+                            <td colspan="4">Nenhum registo!</td>
+                        </tr>
+                    }
+                    else
+                    {
+                        @foreach (var product in products)
+                        {
+                            <tr>
+                                <td>
+                                    @product.Id
+                                </td>
+                                <td>
+                                    @product.Name
+                                </td>
+                                <td>
+                                    @product.Price
+                                </td>
+                                <td>
+                                    @product.Stock
+                                </td>
+                                <td>
+                                    <button type="button" class="btn btn-sm btn-soft-info" @onclick="() => EditProduct(product.Id)"><i class="ri-pencil-fill"></i> Editar</button>
+                                    <button type="button" class="btn btn-sm btn-soft-danger" @onclick="() => DeleteProduct(product.Id)"><i class="ri-delete-bin-fill"></i> Excluir</button>
+                                </td>
+                            </tr>
+                        }
+                    }
+                </tbody><!-- end tbody -->
+            </table><!-- end table -->
+        </div>
+    </div>
+</div>
 
-@if (products == null)
-{
-    <p><em>Loading...</em></p>
-}
-else
-{
-    <table class="table">
-        <thead>
-            <tr>
-                <th>ID</th>
-                <th>Name</th>
-                <th>Price</th>
-                <th>Stock</th>
-                <th>Actions</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var product in products)
-            {
-                <tr>
-                    <td>@product.Id</td>
-                    <td>@product.Name</td>
-                    <td>@product.Price</td>
-                    <td>@product.Stock</td>
-                    <td>
-                        <button type="button" @onclick="() => EditProduct(product.Id)">Edit</button>
-                        <button type="button" @onclick="() => DeleteProduct(product.Id)">Delete</button>
-                    </td>
-                </tr>
-            }
-        </tbody>
-    </table>
-}
 
 @code {
     private IEnumerable<Product>? products;
